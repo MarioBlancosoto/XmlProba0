@@ -9,7 +9,8 @@ public class XmlProba0 {
      
         Metodos metodos = new Metodos();
         
-        metodos.escribir();
+        //metodos.escribir();
+        metodos.ler();
         
     }
     
